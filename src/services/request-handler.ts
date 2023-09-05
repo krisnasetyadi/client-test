@@ -1,4 +1,3 @@
-import { toast } from "react-hot-toast/headless"
 import swal from "sweetalert2"
 
 const api = 'http://localhost:3000'
