@@ -4,7 +4,7 @@ export const navRoute = [
         route: '/'
     },
     {
-        name: 'Chart',
-        route: '/chart'
+        name: 'Graph',
+        route: '/graph'
     }
 ]
