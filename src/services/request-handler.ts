@@ -3,6 +3,8 @@ import swal from "sweetalert2"
 const api = 'http://localhost:3000'
 
 export default class RequestHandler {
+    private url: string;
+    private api: string;
     constructor(url: string) {
         this.url = url
         this.api = api

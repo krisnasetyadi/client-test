@@ -1,3 +1,0 @@
-interface RequestHandler {
-    url?: string;
-}
